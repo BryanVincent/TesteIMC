@@ -1,0 +1,21 @@
+body{
+    color:rgb(0, 0, 0);
+    background-color: rgb(253, 7, 109);
+}
+
+h1{
+    color:lawngreen;
+}
+
+button{
+    color: rgb(255, 72, 0);
+}
+
+input{
+    background-color: black;
+    color: white;
+}
+
+div{
+    color: rgb(229, 255, 0);
+}
